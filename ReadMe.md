@@ -12,7 +12,7 @@ https://www.linkedin.com/in/lucas-sauniere-27a40b173/
 
 | Repository | Purpose |
 | --- | --- |
-| [PhD resources](https://github.com/LucasSauniere/PhD_Defense) | Defense slides, presentation folders, thesis materials, and resource guides |
+| [PhD resources](https://github.com/LucasSauniere/phd) | Defense slides, presentation folders, thesis materials, and resource guides |
 | [Spectrum-Programs](https://github.com/LucasSauniere/Spectrum-Programs) | Earlier Python utilities for astronomical spectra |
 
 ## Personal tools
